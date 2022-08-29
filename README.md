@@ -4,6 +4,6 @@
 
 [![ckyeon's github stats](https://github-readme-stats.vercel.app/api?username=ckyeon&show_icons=true&theme=dracula)](https://github.com/ckyeon)
 
-[![opgc](https://api.opgc.me/githubs/users/ckyeon/tag/?theme=dracula)](https://opgc.me/#/users/ckyeon)
+<!-- [![opgc](https://api.opgc.me/githubs/users/ckyeon/tag/?theme=dracula)](https://opgc.me/#/users/ckyeon> -->
 
 ![ckyeon's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ckyeon)
