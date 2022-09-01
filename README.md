@@ -2,7 +2,7 @@
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=ckyeon&theme=calm)](https://github.com/ckyeon)
 
-[![ckyeon's github stats](https://github-readme-stats.vercel.app/api?username=ckyeon&show_icons=true&theme=dracula)](https://github.com/ckyeon)
+[![ckyeon's github stats](https://github-readme-stats.vercel.app/api?username=ckyeon&show_icons=true&theme=dracula&count_private=true)](https://github.com/ckyeon)
 
 <!-- [![opgc](https://api.opgc.me/githubs/users/ckyeon/tag/?theme=dracula)](https://opgc.me/#/users/ckyeon>) -->
 
