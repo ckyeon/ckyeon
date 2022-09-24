@@ -1,6 +1,6 @@
 <div align="center">
   
-### My Current Streak & Total Contributions
+### My Streak & Contributions
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=ckyeon&theme=blueberry_duo)](https://github.com/ckyeon)
 
 ### My Trophies
